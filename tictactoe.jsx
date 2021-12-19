@@ -37,7 +37,7 @@ const Board = () => {
           {renderSquare(7)}
           {renderSquare(8)}
         </div>
-        <div id="info">
+        <div id="info   ">
           <h1 id="turn">{playerTurn}</h1>
           <h1>{status}</h1>
         </div>
